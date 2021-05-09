@@ -1,3 +1,5 @@
+//A computer program to automatically analyze some of the data collected by some experiments
+
 import java.util.Scanner;
 
 public class DataAnalyze {
