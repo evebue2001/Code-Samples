@@ -1,3 +1,5 @@
+//Small code interview using keyboard input for any user 
+
 import java.util.Scanner;
 
 public class Interviewer {
