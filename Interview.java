@@ -1,3 +1,5 @@
+//Small coded interview of person sitting next to me in class
+
 public class Interview {
 	public static void main(String[] args) { 
 		System.out.println("Person Interviewed:\tNayeli");
