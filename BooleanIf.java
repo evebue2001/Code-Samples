@@ -1,3 +1,5 @@
+//Replace all the true in the if statements with the appropriate relational check between a and b
+
 import java.util.Scanner;
 
 public class BooleanIf{
