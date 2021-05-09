@@ -1,3 +1,5 @@
+//Program will provide an estimated cost to users reserving a room in a hotel
+
 import java.util.Scanner;
 import java.util.Random;
 
