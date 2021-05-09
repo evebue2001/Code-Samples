@@ -1,3 +1,5 @@
+//Debugged code as it contained errors
+
 import java.util.Scanner;
 
 public class Errors2 {
