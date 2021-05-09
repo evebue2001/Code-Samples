@@ -1,3 +1,5 @@
+//A small coded self-introduction is given. 
+
 public class FirstProgram {
 	public static void main (String[] arguments) {
 		System.out.print ("Hello ");
