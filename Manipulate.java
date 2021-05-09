@@ -1,3 +1,5 @@
+//Ask user for two int, shorts, float, and double numbers from the user and displayng 5 results 
+
 import java.util.Scanner;
 
 public class Manipulate {
